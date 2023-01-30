@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  color: white;
+}
+.App {
+  width: 1300px;
+  height: 400px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
